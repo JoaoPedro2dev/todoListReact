@@ -1,1 +1,1 @@
-Aprendendo a manipular os dados fornecido pelo usuario com React JS 
+Aprendendo a manipular dados fornecidos pelo usuario com React JS 
